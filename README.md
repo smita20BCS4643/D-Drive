@@ -33,6 +33,6 @@ Decentralized storage using blockchain and IPFS will allow us to upload file in 
 - IPFS: The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.
 
 ## Flowchart
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 
