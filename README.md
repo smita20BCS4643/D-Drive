@@ -137,12 +137,15 @@ This project can be sold as a full fledged enterprise web based tool to conduct 
 1) Nodejs 
    - Version(v9.10.0)
    - You can directly download from the website [Nodejs](nodejs.org/en/)
+   
 2) Truffle Framework
    - Version(5.1.39)
    - You can install truffle from your command line like this `npm install --g truffle@5.1.39` or from here [Truffle Framework](trufflesuite.com)
+   
 3) Ganache 
    - Compatible with any version
    - You can directly download from the website [Ganache](trufflesuite.com/ganache)
+   
 4) MetaMask
    - Compatible with any version
    - You can directly download from the website [MetaMask](https://metamask.io/)
